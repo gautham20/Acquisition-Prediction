@@ -26,7 +26,7 @@
 
 <h2> Result </h2>
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt tag](https://github.com/gautham20/Acquisition-Prediction/blob/master/data/Result.png?raw=true)
 
 <p>The results are close to reality, the model accurates captures the acquisition trends going on in the food delivery and real estate industries, but is far from perfect.
 One of the limitations of the model is, it cannot differentiate the context between a company that is getting acquired and the company that acquires it. </p>
